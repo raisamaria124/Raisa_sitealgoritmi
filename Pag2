@@ -1,0 +1,38 @@
+Tablouri unidimensionale
+
+Tablourile unidimensionale, numite și vectori, sunt structuri de date care permit stocarea unui număr finit de elemente de același tip într-o zonă continuă de memorie. Fiecare element este identificat printr-un indice, ceea ce permite accesul rapid la date.
+
+Acestea sunt utilizate frecvent în programare pentru organizarea și prelucrarea informațiilor, fiind una dintre cele mai simple și importante structuri de date studiate în informatică.
+
+Avantajele tablourilor unidimensionale
+
+* organizarea eficientă a datelor;
+* acces rapid la elemente;
+* utilizare simplă în algoritmi;
+* consum redus de memorie.
+
+Căutarea binară
+
+Căutarea binară este un algoritm folosit pentru găsirea rapidă a unei valori într-un vector sortat. Metoda constă în împărțirea repetată a vectorului în două părți și eliminarea jumătății în care elementul căutat nu poate exista.
+
+Acest algoritm este mult mai eficient decât căutarea secvențială deoarece reduce semnificativ numărul de comparații necesare. Din acest motiv, este utilizat în aplicații care prelucrează volume mari de date.
+
+Caracteristici
+
+* funcționează doar pe vectori sortați;
+* reduce spațiul de căutare la jumătate la fiecare pas;
+* are o eficiență ridicată;
+* este utilizată în numeroși algoritmi și programe informatice.
+
+Interclasarea
+
+Interclasarea este procesul prin care două șiruri sau doi vectori ordonați sunt combinați într-un singur vector ordonat. În timpul procesului, elementele sunt comparate și așezate în ordinea corespunzătoare astfel încât rezultatul final să rămână sortat.
+
+Interclasarea reprezintă o operație fundamentală în informatică și este utilizată în numeroși algoritmi de sortare și procesare a datelor.
+
+Importanța interclasării
+
+* permite combinarea eficientă a datelor ordonate;
+* stă la baza unor algoritmi performanți de sortare;
+* contribuie la reducerea timpului de procesare;
+* este utilizată în gestionarea bazelor de date și a fișierelor mari.
